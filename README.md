@@ -60,3 +60,7 @@ fridge-to-recipe/
 ├── package-lock.json
 ├── README.md
 └── vite.config.js
+
+## 📹 Demo
+
+🎥 [Watch the Fridge to Recipe Demo](https://drive.google.com/file/d/1cYhF78fii2jnGPNejHNpn0qm2XgRa7TF/view?usp=sharing)
