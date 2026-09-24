@@ -23,7 +23,8 @@ Instead of wondering what to cook, users can select ingredients from an interact
 
 ## 📹 Demo
 
-🎥 [Watch the Fridge to Recipe Demo](https://drive.google.com/file/d/1cYhF78fii2jnGPNejHNpn0qm2XgRa7TF/view?usp=sharing)
+🎥 [Watch the Fridge to Recipe Demo](<img width="1762" height="911" alt="image" src="https://github.com/user-attachments/assets/1bbc1919-29c6-4965-bbab-d64a8d887b11" />
+)
 
 ### Frontend
 
